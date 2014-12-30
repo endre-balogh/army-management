@@ -1,0 +1,19 @@
+[
+{
+	"game-system" : {
+		"id" : "wh40k",
+		"name" : "Warhammer 40k",
+		"picture" : "",
+		"standard-point-options" : [500, 1000, 1500]
+	}
+}
+,
+{
+	"game-system" : {
+		"id" : "wfb",
+		"name" : "Warhammer Fantasy Battles",
+		"picture" : "",
+		"standard-point-options" : [500, 1000, 1500]
+	}
+}
+]
